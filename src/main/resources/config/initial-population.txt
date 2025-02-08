@@ -1,0 +1,16 @@
+WOLF        0
+BOA         0
+FOX         40
+BEAR        0
+EAGLE       0
+HORSE       0
+DEER        0
+RABBIT      2000
+MOUSE       4000
+GOAT        20
+SHEEP       0
+BOAR        0
+BUFFALO     0
+DUCK        30
+CATERPILLAR 4000
+GRASS       4000
